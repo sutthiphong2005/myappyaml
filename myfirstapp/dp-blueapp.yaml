@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: blue-container
-        image: docker.io/sutthiphong2005/docker-gs-ping:blue
+        image: docker.io/sutthiphong2005/docker-gs-ping:green
         ports:
         - containerPort: 8080
